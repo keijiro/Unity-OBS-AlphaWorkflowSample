@@ -1,0 +1,4 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:VisualElement name="backdrop" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: url(&quot;project://database/Assets/Misc/Chcker.metatex?fileID=7506314328700112305&amp;guid=2d0d61501484c4656b0bbff6c7aa1c63&amp;type=3#Chcker&quot;); -unity-background-scale-mode: scale-to-fit;" />
+    <engine:VisualElement name="render" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Misc/Render.renderTexture?fileID=8400000&amp;guid=daf5ca93432314d80aec651b844fbb17&amp;type=2#Render&quot;); -unity-background-scale-mode: scale-to-fit; position: absolute; top: 0; left: 0; right: 0; bottom: 0;" />
+</engine:UXML>
