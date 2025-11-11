@@ -156,6 +156,15 @@
       "dependencies": {},
       "url": "https://registry.npmjs.com"
     },
+    "jp.keijiro.klak.spout": {
+      "version": "2.0.4",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.screencapture": "1.0.0"
+      },
+      "url": "https://registry.npmjs.com"
+    },
     "jp.keijiro.klutter-tools": {
       "version": "2.4.3",
       "depth": 0,
@@ -205,6 +214,12 @@
       "source": "builtin",
       "dependencies": {}
     },
+    "com.unity.modules.imageconversion": {
+      "version": "1.0.0",
+      "depth": 2,
+      "source": "builtin",
+      "dependencies": {}
+    },
     "com.unity.modules.imgui": {
       "version": "1.0.0",
       "depth": 1,
@@ -222,6 +237,14 @@
       "depth": 2,
       "source": "builtin",
       "dependencies": {}
+    },
+    "com.unity.modules.screencapture": {
+      "version": "1.0.0",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.imageconversion": "1.0.0"
+      }
     },
     "com.unity.modules.terrain": {
       "version": "1.0.0",
