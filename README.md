@@ -1,5 +1,7 @@
 # Unity-OBS Alpha Workflow Sample (URP)
 
+![GIF](https://github.com/user-attachments/assets/897c2ec6-a8ff-425e-a032-ef81f698bd13)
+
 This Unity sample project demonstrates how to blend Unity renders in OBS by
 using inter-app frame interchange protocols such as Spout or NDI. It relies on
 URP's alpha-channel output, so chroma keying (green background) is unnecessary.
